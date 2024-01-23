@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/felipedomingues/Projetos/MinimalApiTarefas/MinimalApiTarefas.csproj": {}
+    "/Users/felipedomingues/Projetos/DotNet/MinimalApiTarefas/MinimalApiTarefas.csproj": {}
   },
   "projects": {
-    "/Users/felipedomingues/Projetos/MinimalApiTarefas/MinimalApiTarefas.csproj": {
+    "/Users/felipedomingues/Projetos/DotNet/MinimalApiTarefas/MinimalApiTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/felipedomingues/Projetos/MinimalApiTarefas/MinimalApiTarefas.csproj",
+        "projectUniqueName": "/Users/felipedomingues/Projetos/DotNet/MinimalApiTarefas/MinimalApiTarefas.csproj",
         "projectName": "MinimalApiTarefas",
-        "projectPath": "/Users/felipedomingues/Projetos/MinimalApiTarefas/MinimalApiTarefas.csproj",
+        "projectPath": "/Users/felipedomingues/Projetos/DotNet/MinimalApiTarefas/MinimalApiTarefas.csproj",
         "packagesPath": "/Users/felipedomingues/.nuget/packages/",
-        "outputPath": "/Users/felipedomingues/Projetos/MinimalApiTarefas/obj/",
+        "outputPath": "/Users/felipedomingues/Projetos/DotNet/MinimalApiTarefas/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/felipedomingues/.nuget/NuGet/NuGet.Config"

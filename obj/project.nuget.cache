@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MDyHCqD3F27o/gsMKLEnsLCBF4GqZ0PO/zU6wG1B5/UQvRgqQgQB8iaRVVCi8l/uRTV+LU+KCLyGD8WHhQl11Q==",
+  "dgSpecHash": "4YdlGueXuxjMyNNjhpoNkQg4i331pghOvKgF9L1okjLei75VrNgAV3J9yOvS91ZboGMam/sdrfXkVCnsB/DtQw==",
   "success": true,
-  "projectFilePath": "/Users/felipedomingues/Projetos/MinimalApiTarefas/MinimalApiTarefas.csproj",
+  "projectFilePath": "/Users/felipedomingues/Projetos/DotNet/MinimalApiTarefas/MinimalApiTarefas.csproj",
   "expectedPackageFiles": [
     "/Users/felipedomingues/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "/Users/felipedomingues/.nuget/packages/microsoft.entityframeworkcore/8.0.1/microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
