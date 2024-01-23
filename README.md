@@ -23,7 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - .NET 8
 - Entity Framework (InMemory)
 - OpenAPI (Swagger)
-- MySQL
 
 ## 💻 Projeto
 
